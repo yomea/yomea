@@ -16,7 +16,7 @@
 
 <li>🔨 <a href="https://github.com/yomea/hangu-rpc">您真的懂RPC吗？实践才是硬道理，手撸一个叫hangu-rpc的RPC框架</a></li>
     
-<li>🍉 <a href="https://github.com/yomea/hangu-rpc">您真的懂注册中心吗？实践才是硬道理，手撸一个叫hangu-center的注册中心</a></li>
+<li>🍉 <a href="https://github.com/yomea/hangu-register">您真的懂注册中心吗？实践才是硬道理，手撸一个叫hangu-center的注册中心</a></li>
     
 <li>🌙 <a href="https://github.com/yomea/hangu-gateway">一个简单的纯Netty编写的网关，支持Http调用hangu-rpc</a></li>
     
@@ -32,7 +32,7 @@
 
 <li>🍉 <a href="https://github.com/yomea/javassist">天级字节码操作神器：Javassist修炼笔记</a></li>
 
-<li>🌙 <a href="https://github.com/yomea/hangu-gateway">天级字节码操作神器：ASM修炼笔记</a></li>
+<li>🌙 <a href="https://github.com/yomea/ASM">天级字节码操作神器：ASM修炼笔记</a></li>
 
 <li>☀ <a href="https://github.com/yomea/DataSource">小试牛刀：很久以前写的手写数据库连接池，代码看起来还是蛮搞笑的</a></li>
 
