@@ -44,7 +44,7 @@
 
 <ul>
     
-<li>🍉 <a href="https://github.com/yomea/lx-doc">一个整合了流程图、markdow、BPMN等类型文档的项目</a></li>
+<li>🍉 <a href="https://github.com/yomea/lx-doc">一个整合了流程图、脑图、PDF、Excel、Word、BPMN、Markdown等类型文档的项目</a></li>
 
 </ul>
  
