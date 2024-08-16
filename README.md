@@ -10,7 +10,7 @@
 
 </ul>
 
-<h2>💡 造轮子 ↓</h2>
+<h2>💡 造轮子（金丹期） ↓</h2>
 
 <ul>
 
@@ -20,8 +20,24 @@
     
 <li>🌙 <a href="https://github.com/yomea/hangu-gateway">一个简单的纯Netty编写的网关，支持Http调用hangu-rpc</a></li>
     
-<li>☀️ <a href="https://github.com/yomea/timer-task-scheduler">一个基于数据库的分布式定时任务</a></li>
+<li>☀ <a href="https://github.com/yomea/timer-task-scheduler">一个基于数据库的分布式定时任务</a></li>
   
+</ul>
+
+<h2 id="studyNote">💡 学习笔记（筑基期） ↓</h2>
+
+<ul>
+
+<li>🔨 <a href="https://github.com/yomea/httpServer">大神面前班门弄斧：Java写的一个小型服务器，用于学习</a></li>
+
+<li>🍉 <a href="https://github.com/yomea/javassist">天级字节码操作神器：Javassist修炼笔记</a></li>
+
+<li>🌙 <a href="https://github.com/yomea/hangu-gateway">天级字节码操作神器：ASM修炼笔记</a></li>
+
+<li>☀ <a href="https://github.com/yomea/DataSource">小试牛刀：很久以前写的手写数据库连接池，代码看起来还是蛮搞笑的</a></li>
+
+<li>🖌️ <a href="#studyNote">学海无涯，道阻且长</a></li>
+
 </ul>
 
 <h2>💡 是时候给自己定制一套终身VIP文档系统了 ↓</h2>
@@ -32,10 +48,10 @@
 
 </ul>
  
-<h2>💡 原创技术文 ↓</h2>
+<h2>💡 原创技术文（修炼秘籍） ↓</h2>
 
 <ul>
 
-<li>✏️ <a href="https://github.com/yomea/technical-documentation">各类技术文档（源码、教程、造轮子...）</a></li>
+<li>✏ <a href="https://github.com/yomea/technical-documentation">各类技术文档（源码、教程、造轮子...）</a></li>
 
 </ul>
