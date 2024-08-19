@@ -28,7 +28,7 @@
 
 <ul>
 
-<li>🔨 <a href="https://github.com/yomea/httpServer">大神面前班门弄斧：Java写的一个小型服务器，用于学习</a></li>
+<li>🔨 <a href="https://github.com/yomea/httpServer">化神面前班门弄斧：Java写的一个小型服务器，用于学习</a></li>
 
 <li>🍉 <a href="https://github.com/yomea/javassist">天级字节码操作神器：Javassist修炼笔记</a></li>
 
