@@ -38,6 +38,8 @@
 
 <li>☀ <a href="https://github.com/yomea/DataSource">小试牛刀：很久以前写的手写数据库连接池，代码看起来还是蛮搞笑的</a></li>
 
+<li>🌲 <a href="https://github.com/yomea/weixinbabyvote">初识微信公众号对接：宝贝投票单机版</a></li>
+
 <li>🖌️ <a href="#studyNote">学海无涯，道阻且长</a></li>
 
 </ul>
