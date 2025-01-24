@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/kdKhgx6.gif" width="240px">
+<img src="https://raw.githubusercontent.com/yomea/yomea/refs/heads/main/dino.gif" width="240px">
 
 <h2>💡 博客地址 ↓</h2>
 
