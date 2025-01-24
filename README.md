@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yomea/yomea/refs/heads/main/dino.gif" width="240px">
+![image](https://raw.githubusercontent.com/yomea/yomea/refs/heads/main/dino.gif)
 
 <h2>💡 博客地址 ↓</h2>
 
