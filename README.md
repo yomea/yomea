@@ -1,5 +1,7 @@
 沧海一粟，相逢何必曾相识
 
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+
 <h2>💡 博客地址 ↓</h2>
 
 <ul>
