@@ -1,7 +1,5 @@
 沧海一粟，相逢何必曾相识
 
-<img src="https://i.imgur.com/kdKhgx6.gif" width="240px">
-
 <h2>💡 博客地址 ↓</h2>
 
 <ul>
@@ -42,7 +40,9 @@
 
 <li>🌲 <a href="https://github.com/yomea/weixinbabyvote">初学微信公众号对接：宝贝投票单机版</a></li>
 
-<li>🖌️ <a href="#studyNote">学海无涯，道阻且长</a></li>
+<li>🖌️ <a href="#studyNote">学海无涯，道阻且长</a>
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px">
+</li>
 
 </ul>
 
