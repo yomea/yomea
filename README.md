@@ -40,9 +40,9 @@
 
 <li>🌲 <a href="https://github.com/yomea/weixinbabyvote">初学微信公众号对接：宝贝投票单机版</a></li>
 
-<li>🖌️ <a href="#studyNote">学海无涯，道阻且长</a>
+<li>🖌️ <a href="#studyNote">学海无涯，道阻且长</a></li>
+
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px">
-</li>
 
 </ul>
 
